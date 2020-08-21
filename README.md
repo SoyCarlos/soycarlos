@@ -8,7 +8,7 @@
 - 🎒 Studying Cognitive Science, with an interest in NLP
 - ✏ I love to write about everything, especially Data Ethics + Data Science topics for non-tech folk
 - 👨🏼‍🏫 I love to teach
-- 📺 Obsessed with all types of media, especially 
+- 📺 Obsessed with all types of media, especially TV + Podcasts
 
 <!--
 ## Type of Work I've Done in the Past
