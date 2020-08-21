@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 🙋🏼‍♂️
 ### Budding Data Scientist
-❗ Currently: About to start searching for a New Grad Data Science role, have anything?
+❗ Currently: Searching for a New Grad Data Science role, have anything?
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
