@@ -5,7 +5,7 @@
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
 - 🐻 Attending UC Berkeley, graduating Spring '21
-- 🎒 Studying Cognitive Science, with an interest in NLP
+- 🎒 Studying Cognitive Science
 - ✏ I love to write about everything, especially Data Ethics + Data Science topics for non-tech folk
 - 👨🏼‍🏫 I love to teach
 - 📺 Obsessed with all types of media, especially TV + Podcasts
