@@ -4,7 +4,7 @@
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
-- 🐻 B.A. Cognitive Science
+- 🐻 UC Berkeley B.A. Cognitive Science, May 2021
 - 📺 Obsessed with all types of media, especially TV + Podcasts
 
 <!--
