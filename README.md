@@ -1,13 +1,10 @@
 # Hi, I'm Carlos 🙋🏼‍♂️
-### Budding Data Scientist/Engineer
-❗ Currently: Chilling
+### Budding Data Dude
+❗ Currently: Data Engineer @ [Entidad](https://www.entidad.io/)
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
-- 🐻 Attending UC Berkeley, graduating Spring '21
-- 🎒 Studying Cognitive Science
-- ✏ I love to write about everything, especially Data Ethics + Data Science topics for non-tech folk
-- 👨🏼‍🏫 I love to teach
+- 🐻 B.A. Cognitive Science
 - 📺 Obsessed with all types of media, especially TV + Podcasts
 
 <!--
