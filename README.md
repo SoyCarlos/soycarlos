@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 🙋🏼‍♂️
-### Budding Data Dude
-❗ Currently: Data Engineer @ [Entidad](https://www.entidad.io/)
+### Budding Software Engineer
+❗ Currently: Laid Off From Amazon, Searching for New Opportunities
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
