@@ -1,5 +1,5 @@
 # Hi, I'm Carlos 🙋🏼‍♂️
-### Budding Software Engineer
+### Software Engineer
 ❗ Currently: Laid Off From Amazon, Searching for New Opportunities
 
 ## Quick Facts About Me
