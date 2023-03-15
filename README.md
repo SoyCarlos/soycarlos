@@ -23,13 +23,14 @@ Data Science in ______
 -->
 
 ## My Blog Posts
+- ["Year 1 As A Data Engineer: What I Learned"](https://carlos.soy/2022/08/20/year-1-as-a-data-engineer) Self-Published on 8/20/22
+- ["Rome Wasn't Built In a Day: But This Website Was"](https://carlos.soy/2022/06/03/rome-wasnt-built-in-a-day) Self-Published on 6/3/22
 - ["Data Privacy In a Pandemic"](https://towardsdatascience.com/data-privacy-in-a-pandemic-901e828b850a) Published in Towards Data Science on 5/27/20
 - ["Show Me Your Phone: Analyzing My Text Messages"](https://medium.com/soycarlos/show-me-your-phone-analyzing-my-text-messages-6a2b70d8f776) Self-Published on 7/30/19
 - ["Have Sad Bois Taken Over the Radio?"](https://medium.com/soycarlos/have-sad-bois-taken-over-the-radio-2d42d9618073) Self-Published on 12/8/18
 
 ## Ways to Reach Me!
 - 📮 Email: [me@carlos.soy](mailto:me@carlos.soy)
-- 🐦 Twitter: [@SoyCarlosEO](https://twitter.com/SoyCarlosEO)
 - 👨🏼‍💼 LinkedIn: [@SoyCarlos](https://www.linkedin.com/in/SoyCarlos/)
 
 ## Learn More About Me
