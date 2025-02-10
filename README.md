@@ -1,26 +1,20 @@
-# Hi, I'm Carlos 🙋🏼‍♂️
-### Software Engineer
-❗ Currently: Laid Off From Amazon, Searching for New Opportunities
+# Hi, I'm Carlos 👨🏻‍💻
+### Software Engineer, Data Analyst
+Currently: Freelancing and working on Open Patterson. Let's connect!  
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
 - 🐻 UC Berkeley B.A. Cognitive Science, May 2021
 - 📺 Obsessed with all types of media, especially TV + Podcasts
 
-<!--
+
 ## Type of Work I've Done in the Past
-- U.S. Census Bureau: NLP + ML
+- Amazon: Software Development
+- Entidad: Data Engineering + Data Analysis  
+- U.S. Census Bureau: NLP + ML, Software Development
 - UC Berkeley DSEP Data Peer Consultants: Data Science consultations and workshops
 - UC Berkeley Library Data Fellow: Organizing Workshops
 
-## Type of Work I'm Interested In
-Data Science in ______
-- Politics
-- Government
-- Public Policy
-- Clinical Mental Health
-- Anything Really I'd Love a Job
--->
 
 ## My Blog Posts
 - ["Year 1 As A Data Engineer: What I Learned"](https://carlos.soy/2022/08/20/year-1-as-a-data-engineer) Self-Published on 8/20/22
