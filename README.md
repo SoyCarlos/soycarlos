@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👨🏻‍💻
 ### Software Engineer, Data Analyst
-Currently: Freelancing and working on Open Patterson. Let's connect!  
+Currently: Working as a Software Administrator for Stanislaus County. Let's connect!  
 
 ## Quick Facts About Me
 - 👶🏼 Born and raised in the Central Valley in California
